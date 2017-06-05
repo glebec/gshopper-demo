@@ -1,7 +1,7 @@
 {
-  "name": "dogbones",
+  "name": "spooky",
   "version": "0.0.1",
-  "description": "A happy little skeleton.",
+  "description": "Spooky scary skeletons.",
   "main": "index.js",
   "engines": {
     "node": ">= 7.0.0"
