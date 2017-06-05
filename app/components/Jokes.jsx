@@ -33,7 +33,9 @@ function randomJoke() {
 }
 
 const jokes = `Q: What's black and white and read all over?
-A: A newspaper!`
+A: A newspaper!
+Q: Why did the chicken cross the road?
+A: To get to the other side!`
   .split('\n')
   .reduce((all, row, i) =>
     i % 2 === 0
