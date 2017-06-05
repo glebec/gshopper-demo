@@ -1,5 +1,7 @@
 # Hi, I'm bones
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/glebec/gshopper-demo.svg)](https://greenkeeper.io/)
+
 I'm a happy little skeleton. You can clone me to use as a starter on your projects!
 I have React, Redux, Sequelize, and Express all just rattling around in here ready
 to go.
