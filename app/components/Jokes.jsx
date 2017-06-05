@@ -32,7 +32,9 @@ function randomJoke() {
   return jokes[Math.floor(Math.random() * jokes.length)]
 }
 
-const jokes = `Q: Why did the chicken cross the road?
+const jokes = `Q: What's black and white and read all over?
+A: A newspaper!
+Q: Why did the chicken cross the road?
 A: To get to the other side!`
   .split('\n')
   .reduce((all, row, i) =>
